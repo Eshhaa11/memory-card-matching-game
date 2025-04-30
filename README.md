@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/memory.jpg)
+
 # 🧠 Memory Card Matching Game (React)
 
 A fun and interactive **memory card matching game** built with React. Flip cards to find matching pairs of emojis — a simple game to test your memory!
